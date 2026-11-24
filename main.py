@@ -16,7 +16,7 @@
 # loop" is cute but the setup is wordy; D is generic confidence-joke.
 # One tweak to A: "Let me think" in quotes reads as the agent quoting
 # itself, and the em-dash turn is the payoff. Final line below.
-# Character count: 107, well under the 200 cap.
+# Character count: 99, well under the 200 cap.
 
 from pathlib import Path
 
